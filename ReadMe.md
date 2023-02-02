@@ -86,3 +86,8 @@ For iOS 13, macOS 11, tvOS 13, and watchOS 7, use Pulse 2:
 
 - `pod "Pulse", "~> 2.0"`
 - `pod "PulseUI", "~> 2.0"`
+
+**Experimental**: Pulse 3 has been ported to iOS 13 by using [a back-port of `@AppStorage`](https://github.com/xavierLowmiller/AppStorage/tree/1.0.4). PulseUI 3 has been ported to iOS 13 by annotating SwiftUI Views as `@available(iOS 14, *)`.
+
+- `pod "Pulse", "3.3.0-backport"`
+- `pod "PulseLogHandler", "3.3.0-backport"`
