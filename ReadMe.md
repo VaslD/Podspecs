@@ -30,6 +30,7 @@ Test cases are included as test specs.
 - `pod "RedisStack"` (`RedisTypes`)
 - `pod "ServiceDiscovery"`
 - `pod "StructuredFieldValues"` (`RawStructuredFieldValues`)
+- `pod "SwiftASN1"`
 - `pod "SwiftProtobuf"`
 - `pod "SwiftSyntax"` (`SwiftSyntaxBuilder`, `SwiftSyntaxParser`)
 - `pod "SymbolKit"`
