@@ -35,6 +35,7 @@ Test cases are included as test specs.
 - `pod "SwiftSyntax"` (`SwiftSyntaxBuilder`, `SwiftSyntaxParser`)
 - `pod "SymbolKit"`
 - `pod "System"`, `import SystemPackage`
+- `pod "X509"`
 
 ## Vapor
 
