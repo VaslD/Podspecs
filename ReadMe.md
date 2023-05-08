@@ -13,7 +13,7 @@ Test cases are included as test specs.
 - `pod "Atomics"`
 - `pod "Backtrace"` (`CBacktrace`)
 - `pod "Collections"` (`DequeModule`, `OrderedCollections`)
-- `pod "Crypto"` or `pod "Crypto/BoringSSL"` (`CCryptoBoringSSL`)
+- `pod "Crypto"` (`CCryptoBoringSSL`)
 - `pod "IsPower"`, `import SE0288_IsPower`
 - `pod "Logging"`
 - `pod "Markdown"` (`CMarkGFM`, `CMarkGFMExtensions`)
